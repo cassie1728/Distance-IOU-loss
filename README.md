@@ -11,4 +11,5 @@ DIOU可以作为标准应用到NMS中。
 
 
 二、各IOU介绍
+$L_IOU = 1- $$\frac{|B$\cap$B^gt|}{|B$\cup$B^gt|}$
 
